@@ -10,7 +10,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://documentation.onesignal.com/docs" target="_blank">Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/OneSignalDevelopers" target="_blank">Examples</a>
+  <a href="https://github.com/orgs/OneSignalDevelopers/repositories?q=sample" target="_blank">Examples</a>
   <br />
   <hr />
 </div>
