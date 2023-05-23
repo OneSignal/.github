@@ -1,4 +1,4 @@
-![OneSignal](https://github.com/OneSignal/.github/blob/439e36ade56b001643ff3b07eeaf95b20129f3e6/assets/onesignal-banner.png)
+![OneSignal](https://github.com/OneSignal/.github/blob/66df244152f1146a8c33fec6af3977581b6e5a43/assets/onesignal-banner.png?raw=true)
 
 <div align="center">
   <h1>OneSignal</h1>
